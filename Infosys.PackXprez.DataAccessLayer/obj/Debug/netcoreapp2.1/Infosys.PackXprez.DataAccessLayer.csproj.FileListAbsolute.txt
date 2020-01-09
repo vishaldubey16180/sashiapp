@@ -1,0 +1,11 @@
+C:\Users\shashi.sharma01\source\repos\project_MS\Infosys.PackXprez.Solution\Infosys.PackXprez.DataAccessLayer\bin\Debug\netcoreapp2.1\Infosys.PackXprez.DataAccessLayer.deps.json
+C:\Users\shashi.sharma01\source\repos\project_MS\Infosys.PackXprez.Solution\Infosys.PackXprez.DataAccessLayer\bin\Debug\netcoreapp2.1\Infosys.PackXprez.DataAccessLayer.runtimeconfig.json
+C:\Users\shashi.sharma01\source\repos\project_MS\Infosys.PackXprez.Solution\Infosys.PackXprez.DataAccessLayer\bin\Debug\netcoreapp2.1\Infosys.PackXprez.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\shashi.sharma01\source\repos\project_MS\Infosys.PackXprez.Solution\Infosys.PackXprez.DataAccessLayer\bin\Debug\netcoreapp2.1\Infosys.PackXprez.DataAccessLayer.dll
+C:\Users\shashi.sharma01\source\repos\project_MS\Infosys.PackXprez.Solution\Infosys.PackXprez.DataAccessLayer\bin\Debug\netcoreapp2.1\Infosys.PackXprez.DataAccessLayer.pdb
+C:\Users\shashi.sharma01\source\repos\project_MS\Infosys.PackXprez.Solution\Infosys.PackXprez.DataAccessLayer\obj\Debug\netcoreapp2.1\Infosys.PackXprez.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\shashi.sharma01\source\repos\project_MS\Infosys.PackXprez.Solution\Infosys.PackXprez.DataAccessLayer\obj\Debug\netcoreapp2.1\Infosys.PackXprez.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\shashi.sharma01\source\repos\project_MS\Infosys.PackXprez.Solution\Infosys.PackXprez.DataAccessLayer\obj\Debug\netcoreapp2.1\Infosys.PackXprez.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\shashi.sharma01\source\repos\project_MS\Infosys.PackXprez.Solution\Infosys.PackXprez.DataAccessLayer\obj\Debug\netcoreapp2.1\Infosys.PackXprez.DataAccessLayer.AssemblyInfo.cs
+C:\Users\shashi.sharma01\source\repos\project_MS\Infosys.PackXprez.Solution\Infosys.PackXprez.DataAccessLayer\obj\Debug\netcoreapp2.1\Infosys.PackXprez.DataAccessLayer.dll
+C:\Users\shashi.sharma01\source\repos\project_MS\Infosys.PackXprez.Solution\Infosys.PackXprez.DataAccessLayer\obj\Debug\netcoreapp2.1\Infosys.PackXprez.DataAccessLayer.pdb
