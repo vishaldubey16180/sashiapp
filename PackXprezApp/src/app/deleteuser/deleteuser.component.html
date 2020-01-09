@@ -1,0 +1,31 @@
+
+<div class="container">
+  <div style="text-align:center; background-color:antiquewhite">
+    <br />
+    <h2>Remove</h2>
+    <br />
+    <h6>All fields are mandatory</h6>
+    <br />
+    <form #loginForm="ngForm" (ngSubmit)="removeFromuser(loginForm)">
+      <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-3">
+          <label>Address</label>
+        </div>
+        <div class="col-md-5">
+          <input class="form-control"  type="text" name="address" ngModel required />
+
+        </div>
+        <div class="col-md-2"></div>
+      </div>
+      <br />
+      
+      <div class="form-group"  style="text-align:center">
+        <button type="submit" class="btn-link">remove</button>
+      </div>
+      <br />
+
+    </form>
+  </div>
+</div>
+
